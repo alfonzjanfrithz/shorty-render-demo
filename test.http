@@ -1,0 +1,9 @@
+POST localhost:8080
+Content-Type: application/json
+
+{
+  "url": "https://yahoo.com"
+}
+
+###
+GET http://localhost:8080/cf0d7b
